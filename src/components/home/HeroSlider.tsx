@@ -83,7 +83,7 @@ export function HeroSlider() {
           transition={{ duration: 0.75, delay: 0.16 }}
           className="font-display mt-4 text-xl font-bold tracking-tight text-saffron-300 sm:text-2xl"
         >
-          Knowledge meets Innovation
+          Knowledgee meets Innovation
         </motion.p>
 
         <motion.p
